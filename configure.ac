@@ -1,6 +1,6 @@
 m4_define([adapta_fp_major_version], [3])
 m4_define([adapta_fp_minor_version], [92])
-m4_define([adapta_fp_micro_version], [1])
+m4_define([adapta_fp_micro_version], [2])
 m4_define([adapta_fp_version], [adapta_fp_major_version.adapta_fp_minor_version.adapta_fp_micro_version])
 m4_define([adapta_fp_git_url], [https://github.com/adapta-project/adapta-gtk-theme-flatpak])
 
